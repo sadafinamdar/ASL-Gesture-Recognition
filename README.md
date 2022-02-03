@@ -36,3 +36,5 @@ STEP 14:- Convert the gesture Images into Text.
 STEP 15:- Convert the Text into Speech.
 
 STEP 16:- Output the speech via Speaker.
+
+<img width="564" alt="Screen Shot 2022-02-03 at 4 47 36 PM" src="https://user-images.githubusercontent.com/98929080/152434870-09c9ca5c-a727-4bae-ac56-3e940e928d0c.png">
